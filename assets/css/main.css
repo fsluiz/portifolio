@@ -4663,11 +4663,11 @@ input, select, textarea {
   }
 }
 .avatar {
-  width: 250px;
-  height: 250px;
+  width: auto;
+  height: auto;
   box-sizing: border-box;
   border: 0px white solid;
-  border-radius: 10%;
+  border-radius: 60%;
   overflow: hidden;
   box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
   transform: translatey(0px);
