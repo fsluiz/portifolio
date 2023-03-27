@@ -95,7 +95,11 @@
   align-items: center;
 		}
 .container_list {
-  padding-left: 15.0rem;
+  /*padding-left: auto;
+  padding-right: auto;*/
+  padding: 0em 5em 0em 5em ;
+	margin: auto auto;
+	/*width: 80em;*/
   display: inline-block;
   align-items: center;
 		}
